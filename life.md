@@ -25,6 +25,6 @@
 - 06/2013 Flew in microgravity
 - 20/06/2013-01/01/2014 Joined [Impermium](http://www.impermium.com)
 - 01/02/2014-~ Joined [Google](http://www.google.com)
-- 02/05/2014 Met Shannon Schaubroeck
-- 05/2014-~ In a relationship with Shannon Schaubroeck
-- 04/2015-~ Moved in with Shannon Schaubroeck
+- 02/05/2014 Met S.S.
+- 05/2014-~ In a relationship with S.S.
+- 04/2015-~ Moved to San Francisco with S.S.
