@@ -9,7 +9,7 @@
 - 2003 Mandrake
 - 2003-2005 Fedora Core 2+
 - 2006-2008 Ubuntu 6.06 Dapper Drake :)
-- 2003 Started contributing to the Apocalypse open source game engine.
+- 2003 First contribution to open source!
 - 2008-2010 OpenSUSE
 - 09/2005-06/2009 Attended Holmdel High School
 - 06/2008-09/2008 Interned at eMagid.
