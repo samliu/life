@@ -22,9 +22,9 @@
 - 10/2010 Hackathon - Grand Prize @ HackU Illinois
 - 10/2011 Hackathon - 1st Place @ HackU Illinois
 - 10/2012 Hackathon - Grand Prize at Facebook Midwest Region
-- ~06/2013 Flew in microgravity
-- 06/2013-01/2014 Joined [Impermium](http://www.impermium.com)
-- 01/2014 Joined [Google](http://www.google.com)
+- 06/2013 Flew in microgravity
+- 20/06/2013-01/01/2014 Joined [Impermium](http://www.impermium.com)
+- 01/02/2014-~ Joined [Google](http://www.google.com)
 - 02/05/2014 Met Shannon Schaubroeck
 - 05/2014-~ In a relationship with Shannon Schaubroeck
 - 04/2015-~ Moved in with Shannon Schaubroeck
