@@ -5,12 +5,12 @@
 - 1996 Moved to Navesink, NJ
 - 1997 Moved to Holmdel, NJ
 - 1998 Built first website!
-- ~2002-2003 Mandrake Linux
-- ~2003-2005 Fedora Core 2+
-- ~2003-2005 Ubuntu 6.06 Dapper Drake
-- ~2003 Started contributing to the Apocalypse open source game engine.
-- ~2008-2010 OpenSUSE
-- ~09/2005-06/2009 Attended Holmdel High School
+- 2002-2003 Mandrake Linux
+- 2003-2005 Fedora Core 2+
+- 2003-2005 Ubuntu 6.06 Dapper Drake
+- 2003 Started contributing to the Apocalypse open source game engine.
+- 2008-2010 OpenSUSE
+- 09/2005-06/2009 Attended Holmdel High School
 - 06/2008-09/2008 Interned at eMagid.
 - 06/2009-08/2009 Interned at [inDinero](http://www.indinero.com).
 - 05/2010-08/2010 Interned at Liferay.
