@@ -39,3 +39,7 @@
 - 07/2012 Hackathon - Finalist @ Linkedin Intern Hack Day
 - 10/2012 Hackathon - Grand Prize @ Facebook Midwest Regional
 - 11/2012 Hackathon - 2nd Place @ Facebook Hackathon Finals
+
+- 16/05/2010-26/05/2010 Traveled to Istanbul, Turkey.
+- 28/05/2014-30/05/2014 Work retreat to Cabo, Mexico.
+- 16/07/2015-30/07/2015 Business trip to Belo Horizonte, Brazil.
