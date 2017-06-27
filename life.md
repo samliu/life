@@ -14,9 +14,12 @@
 - 08/05/2017-~ Married to S.S.
 
 - 09/1997-~ Became friends with Kev
+- 08/2007-~ Became friends with Lisa
 - 08/2009-~ Became friends with KP
+- 08/2009-~ Became friends with Chaitan
+- 08/2009-~ Became friends with Linas
 - 08/2010-~ Became friends with Oni
-- 06/2013-06-2014 HOUSE!
+- 06/2013-06/2014 HOUSE!
 
 - 1998 Built first website!
 - 2002 Red Hat
