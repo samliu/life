@@ -15,7 +15,10 @@
 - 10/2012 Grand Prize at Facebook Hackathon Midwest Region
 - 05/2013 Graduated from UIUC
 - 06/2013-01/2014 Joined [Impermium](http://www.impermium.com)
-- 01/2014 Joined [Google](http://www.google.com)
+- 01/2014-06/2017 Joined [Google](http://www.google.com)
+- 06/19/2017- Joined [Waymo](https://www.waymo.com)
 - 02/05/2014 Met Shannon Schaubroeck
 - 05/2014 In a relationship with Shannon Schaubroeck
-- 04/2015 Moved in with Shannon Schaubroeck
+- 04/2015 Moved in with Shannon Schaubroeck in San Francisco
+- 11/2016 Moved to Mountain View
+- 08/05/2017 Married Shannon Schaubroeck
