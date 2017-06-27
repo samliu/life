@@ -9,9 +9,9 @@
 - 02/05/2014 Met S.S.
 - 04/2014 Moved to San Jose, CA
 - 05/2014-~ <3 S.S.
-- 04/2015-11/2016 Moved to San Francisco, CA
+- 04/2015-10/2016 Moved to San Francisco, CA
 - 11/2016-~ Moved to Mountain View
-- 08/05/2017 Married S.S.
+- 08/05/2017-~ Married to S.S.
 
 - 1998 Built first website!
 - 2002 Red Hat
@@ -32,7 +32,7 @@
 - 05/2013 Graduated from UIUC!
 - 06/2013 Flew in microgravity
 - 20/06/2013-01/01/2014 Joined [Impermium](http://www.impermium.com)
-- 01/2014-06/2017 Joined [Google](http://www.google.com)
+- 01/2014-06/19/2017 Joined [Google](http://www.google.com)
 - 06/19/2017-~ Joined [Waymo](https://www.waymo.com)
 
 - 10/2010 Hackathon - Grand Prize @ HackU Illinois
