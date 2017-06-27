@@ -6,7 +6,7 @@
 - 1997 Moved to Holmdel, NJ
 - 03/2000 Moved in Holmdel, NJ
 - 06/2013 Moved to Mountain View, CA
-- 02/05/2014 Met S.S.
+- 05/02/2014 Met S.S.
 - 04/2014 Moved to San Jose, CA
 - 05/2014-~ <3 S.S.
 - 04/2015-10/2016 Moved to San Francisco, CA
@@ -32,8 +32,8 @@
 - 05/2013 Graduated from UIUC!
 - 06/2013 Flew in microgravity
 - 20/06/2013-01/01/2014 Joined [Impermium](http://www.impermium.com)
-- 01/2014-06/19/2017 Joined [Google](http://www.google.com)
-- 06/19/2017-~ Joined [Waymo](https://www.waymo.com)
+- 01/2014-19/06/2017 Joined [Google](http://www.google.com)
+- 19/06/2017-~ Joined [Waymo](https://www.waymo.com)
 
 - 10/2010 Hackathon - Grand Prize @ HackU Illinois
 - 07/2011 Hackathon - Finalist @ Linkedin Intern Hack Day
@@ -46,3 +46,4 @@
 - 16/05/2010-26/05/2010 Traveled to Istanbul, Turkey.
 - 28/05/2014-30/05/2014 Work retreat to Cabo, Mexico.
 - 16/07/2015-30/07/2015 Business trip to Belo Horizonte, Brazil.
+- 21/12/2016-02/01/2017 Family vacation to Taipei, Taiwan.
