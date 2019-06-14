@@ -51,4 +51,4 @@
 - 21/12/2016-02/01/2017 Family vacation to Taipei, Taiwan.
 - 13/08/2017-18/08/2017 Honeymoon in Todos Santos, Mexico.
 
-- 06/11/2019 Got an appendectomy.
+- 11/06/2019 Got an appendectomy.
