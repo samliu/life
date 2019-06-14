@@ -6,12 +6,12 @@
 - 1997 Moved to Holmdel, NJ
 - 03/2000 Moved in Holmdel, NJ
 - 06/2013 Moved to Mountain View, CA
-- 05/02/2014 Met S.S.
+- 05/02/2014 Met [Shanubydoo](https://www.instagram.com/shanubydoo)
 - 04/2014 Moved to San Jose, CA
-- 05/2014-~ <3 S.S.
+- 05/2014-~ <3 [Shanubydoo](https://www.instagram.com/shanubydoo)
 - 04/2015-10/2016 Moved to San Francisco, CA
 - 11/2016-~ Moved to Mountain View
-- 08/05/2017-~ Married to S.S.
+- 08/05/2017-~ Married [Shanubydoo](https://www.instagram.com/shanubydoo)
 
 - 06/2013-06/2014 Lived with my best friends @ HOUSE!
 
