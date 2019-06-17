@@ -22,7 +22,8 @@
 - 2003-2005 Fedora Core 2+
 - 2006-2008 Ubuntu 6.06 Dapper Drake
 - 2008-2009 OpenSUSE
-- 2009-~ OS X
+- 2009-2017 OS X
+- 2017-~ "Year of the Linux Desktop" for me
 
 - 09/2005-06/2009 Attended Holmdel High School
 - 06/2008-09/2008 Interned at eMagid.
