@@ -50,8 +50,8 @@
 - 28/05/2014-30/05/2014 Work retreat to Cabo, Mexico.
 - 16/07/2015-30/07/2015 Business trip to Belo Horizonte, Brazil.
 - 05/09/2015-08/09/2015 Friend trip to Portland, Oregon.
-- 02/12/2016-05/12/2016 Friend trip to Salt Lake City, Utah.
 - 20/10/2016-24/10/2016 Friend trip to Kauai, Hawaii.
+- 02/12/2016-05/12/2016 Friend trip to Salt Lake City, Utah.
 - 21/12/2016-02/01/2017 Family vacation to Taipei, Taiwan.
 - 13/08/2017-18/08/2017 Honeymoon in Todos Santos, Mexico.
 - 22/11/2018-25/11/2018 Vacation in San Diego
