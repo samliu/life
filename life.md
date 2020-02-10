@@ -80,4 +80,5 @@
 - 20/10/2019 Caught 7lbs golden carp @ Stevens Creek Reservoir.
 - 22/11/2019-28/11/2019 Fished Kauai, HI. First cornetfish, jack crevalle, needlefish, lizardfish, 
 - 08/12/2019 Caught and released very rare native steelhead trout @ Stevens Creek Reservoir.
+- 29/12/2019 Caught ~2lbs LMB at Holmdel Park Pond, NJ.
 - 30/12/2019 Purchased lifetime fishing license for State of California.
