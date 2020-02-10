@@ -49,9 +49,35 @@
 - 16/05/2010-26/05/2010 Traveled to Istanbul, Turkey.
 - 28/05/2014-30/05/2014 Work retreat to Cabo, Mexico.
 - 16/07/2015-30/07/2015 Business trip to Belo Horizonte, Brazil.
+- 05/09/2015-08/09/2015 Friend trip to Portland, Oregon.
+- 02/12/2016-05/12/2016 Friend trip to Salt Lake City, Utah.
+- 20/10/2016-24/10/2016 Friend trip to Kauai, Hawaii.
 - 21/12/2016-02/01/2017 Family vacation to Taipei, Taiwan.
 - 13/08/2017-18/08/2017 Honeymoon in Todos Santos, Mexico.
+- 22/11/2018-25/11/2018 Vacation in San Diego
+- 22/11/2019-28/11/2019 Vacation in Kauai, Hawaii.
 
 - 06/05/2019-09/05-2019 ICLR 2019 @ New Orleans
 
 - 11/06/2019 Got an appendectomy.
+
+- 01/05/2016 Caught 8lbs Halibut on a SF Bay charter. Fell in love with fishing.
+- 18/06/2016 Caught 40+ mackerel on Pacifica Pier.
+- 02/04/2017 Went sailing on the bay with Sanket.
+- 13/05/2017 Caught 8 shiner perch on Santa Cruz pier (Nathan's Bachelor Party).
+- 26/05/2017-28/05/2017 Fished the Charles River in Cambridge, MA. First largemouth bass.
+- 05/07/2017-08/07/2017 Fished the Channel Islands. First bat eagle ray.
+- 14/08/2017-16/08/2017 Fished in Todos Santos, Mexico. First tuna & dorado.
+- 24/09/2017 Fished the Guadalupe River, San Jose. First green sunfish.
+- 12/06/2018 Fished Bay Lake, Minnesota. First Northern Pike.
+- 25/08/2018 Largemouth personal best (5lbs 15oz) at Stevens Creek Reservoir, Cupertino.
+- 12/11/2018 First fish at Lake Temescal, Oakland (2lbs LMB).
+- 22/11/2018-24/11/2018 Fished San Diego, CA. First calico bass, first halibut from shore.
+- 24/12/2018 Fished Grants Pass, Oregon. First wild rainbow trout.
+- 13/04/2019 First Mt. Lassen trout at Lake Temescal, Oakland.
+- 05/07/2019 Fished Gompers Lagoon, Chicago. Caught tiny channel cats.
+- 21/07/2019 Took best friends Kev and Lisa fishing. Discovered Annie's 30th anniversary crackers.
+- 06/10/2019 First topwater bass (on a Zara Spook) and first striper on kastmaster (17") @ O'Neil Forebay.
+- 20/10/2019 Caught 7lbs golden carp at Stevens Creek Reservoir.
+- 08/12/2019 Caught and released very rare native steelhead trout at Stevens Creek Reservoir.
+- 30/12/2019 Purchased lifetime fishing license for State of California.
