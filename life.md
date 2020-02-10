@@ -63,7 +63,7 @@
 - 18/06/2016 Caught 40+ mackerel on Pacifica Pier.
 - 02/04/2017 Went sailing on the bay with Sanket, first time trolling. Skunked.
 - 13/05/2017 Caught 8 shiner perch on Santa Cruz pier (Nathan's Bachelor Party).
-- 26/05/2017-28/05/2017 Fished the Charles River in Cambridge, MA. First largemouth bass.
+- 26/05/2017-28/05/2017 Fished the Charles River in Cambridge, MA. First largemouth bass, yellow perch.
 - 05/07/2017-08/07/2017 Fished the Channel Islands. First bat eagle ray.
 - 14/08/2017-16/08/2017 Fished in Todos Santos, Mexico. First tuna & dorado.
 - 24/09/2017 Fished the Guadalupe River, San Jose. First green sunfish.
