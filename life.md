@@ -55,11 +55,9 @@
 - 21/12/2016-02/01/2017 Family vacation to Taipei, Taiwan.
 - 13/08/2017-18/08/2017 Honeymoon in Todos Santos, Mexico.
 - 22/11/2018-25/11/2018 Vacation in San Diego
-- 22/11/2019-28/11/2019 Vacation in Kauai, Hawaii.
-
 - 06/05/2019-09/05-2019 ICLR 2019 @ New Orleans
-
 - 11/06/2019 Got an appendectomy.
+- 22/11/2019-28/11/2019 Vacation in Kauai, Hawaii.
 
 - 01/05/2016 Caught 8lbs Halibut on a SF Bay charter. Fell in love with fishing.
 - 18/06/2016 Caught 40+ mackerel on Pacifica Pier.
