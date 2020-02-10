@@ -75,7 +75,9 @@
 - 13/04/2019 First Mt. Lassen stocked rainbow trout @ Lake Temescal, Oakland.
 - 05/07/2019 Fished Gompers Lagoon, Chicago. Caught tiny channel cats.
 - 21/07/2019 Took best friends Kev and Lisa fishing. Discovered Annie's 30th anniversary crackers.
+- 29/09/2019 Caught 19 sharks in SF Bay. First leopard shark, first sevengill shark.
 - 06/10/2019 First topwater bass (on a Zara Spook) and first striper on kastmaster (17") @ O'Neil Forebay.
 - 20/10/2019 Caught 7lbs golden carp @ Stevens Creek Reservoir.
+- 22/11/2019-28/11/2019 Fished Kauai, HI. First cornetfish, jack crevalle, needlefish, lizardfish, 
 - 08/12/2019 Caught and released very rare native steelhead trout @ Stevens Creek Reservoir.
 - 30/12/2019 Purchased lifetime fishing license for State of California.
