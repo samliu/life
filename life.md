@@ -57,11 +57,20 @@
 - 22/11/2018-25/11/2018 Vacation in San Diego
 - 06/05/2019-09/05-2019 ICLR 2019 @ New Orleans
 - 11/06/2019 Got an appendectomy.
+- 29/08/2019-02/09/2019 Random trip to Oregon
+- 19/09/2019 Esther & Alby wedding ceremony!
 - 22/11/2019-28/11/2019 Vacation in Kauai, Hawaii.
+- 31/01/2020 K-Town fun in LA
 - 02/03/2020 Julian & Aidee's wedding in Cancun
 - 10/03/2020 COVID WFH begins. Not allowed back in office.
+- 13/05/2020-17/05/2020 Staycation in Montara.
+- 01/07/2020 Trip to Mammoth Lakes / Sierra National Forest for fly fishing.
+- 31/07/2020 Camping trip in El Dorado Natl Forest, fly fishing.
 - 04/09/2020-20/09/2020 Road trip from MTV to NJ
+- 09/10/2020-12/10/2020 Birthday weekend in Watch Hill, RI.
 - 21/11/2020-05/12/2020 Road trip from NJ to MTV
+- 13/02/2021 Camping trip at Lake Chabot.
+- 19/02/2021 Weekend trip in Bodega Bay, first time crabbing.
 
 - 01/05/2016 Caught 8lbs Halibut on a SF Bay charter. Fell in love with fishing.
 - 18/06/2016 Caught 40+ mackerel on Pacifica Pier.
@@ -86,3 +95,6 @@
 - 08/12/2019 Caught and released very rare native steelhead trout @ Stevens Creek Reservoir.
 - 29/12/2019 Caught ~2lbs LMB at Holmdel Park Pond, NJ.
 - 30/12/2019 Purchased lifetime fishing license for State of California.
+- 31/07/2020-02/08/2020 Caught 40+ rainbow trout in El Dorado national forest, mostly on the fly.
+- 09/10/2020-12/10/2020 Caught a bunch of east coast striper schoolies at Quonochontaug, RI.
+- 
