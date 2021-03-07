@@ -59,9 +59,9 @@
 - 11/06/2019 Got an appendectomy.
 - 22/11/2019-28/11/2019 Vacation in Kauai, Hawaii.
 - 02/03/2020 Julian & Aidee's wedding in Cancun
-- 10/03/2020 WFH begins. Not allowed back in office.
-- 04/09/2020-20/09/2020 Drove MTV -> NJ
-- 21/11/2020-05/12/2020 Drove NJ -> MTV
+- 10/03/2020 COVID WFH begins. Not allowed back in office.
+- 04/09/2020-20/09/2020 Road trip from MTV to NJ
+- 21/11/2020-05/12/2020 Road trip from NJ to MTV
 
 - 01/05/2016 Caught 8lbs Halibut on a SF Bay charter. Fell in love with fishing.
 - 18/06/2016 Caught 40+ mackerel on Pacifica Pier.
