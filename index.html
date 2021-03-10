@@ -194,10 +194,10 @@ h1{
                 var t = time.split('/');
                 data[point + 'Month'] = parseInt(t[0], 10);
                 data[point + 'Year'] = parseInt(t[1], 10);
-            } else if (/^\d+\/\d+\/\d+$/.test(time)){ // DD/MM/YYYY
+            } else if (/^\d+\/\d+\/\d+$/.test(time)){ // MM/DD/YYYY
                 var t = time.split('/');
-                data[point + 'Date'] = parseInt(t[0], 10);
-                data[point + 'Month'] = parseInt(t[1], 10);
+                data[point + 'Date'] = parseInt(t[1], 10);
+                data[point + 'Month'] = parseInt(t[0], 10);
                 data[point + 'Year'] = parseInt(t[2], 10);
             } else if (/\d\-/.test(time)){ // TIME-TIME
                 var splitTime = time.split('-');
