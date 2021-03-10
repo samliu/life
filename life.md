@@ -12,6 +12,9 @@
 - 04/2015-10/2016 Moved to San Francisco, CA
 - 11/2016-~ Moved to Mountain View
 - 08/05/2017-~ Married [Shanubydoo](https://www.instagram.com/shanubydoo)
+- 03/01/2018 Adopted [Lil Lucy Liu](https://www.instagram.com/lillucyliu)
+- 28/02/2021 Placeholder / discovered something amazing?!
+- 11/2021 Exciting thing?!
 
 - 06/2013-06/2014 Lived with my best friends @ HOUSE!
 
