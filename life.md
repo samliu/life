@@ -80,7 +80,7 @@
 - 04/02/2017 Went sailing on the bay with Sanket, first time trolling. Skunked.
 - 05/13/2017 Caught 8 shiner perch on Santa Cruz pier (Nathan's Bachelor Party).
 - 05/26/2017-05/28/2017 Fished the Charles River in Cambridge, MA. First largemouth bass, yellow perch.
-- 07/05/2017-078/08/2017 Fished the Channel Islands. First bat eagle ray.
+- 07/05/2017-07/08/2017 Fished the Channel Islands. First bat eagle ray.
 - 08/14/2017-08/16/2017 Fished in Todos Santos, Mexico. First tuna & dorado.
 - 09/24/2017 Fished the Guadalupe River, San Jose. First green sunfish.
 - 06/12/2018 Fished Bay Lake, Minnesota. First Northern Pike.
@@ -94,7 +94,7 @@
 - 09/29/2019 Caught 19 sharks in SF Bay. First leopard shark, first sevengill shark.
 - 10/06/2019 First topwater bass (on a Zara Spook) and first striper on kastmaster (17") @ O'Neil Forebay.
 - 10/20/2019 Caught 7lbs golden carp @ Stevens Creek Reservoir.
-- 11/22/2019-28/11/2019 Fished Kauai, HI. First cornetfish, jack crevalle, needlefish, lizardfish,
+- 11/22/2019-11/28/2019 Fished Kauai, HI. First cornetfish, jack crevalle, needlefish, lizardfish,
 - 12/08/2019 Caught and released very rare native steelhead trout @ Stevens Creek Reservoir.
 - 12/29/2019 Caught ~2lbs LMB at Holmdel Park Pond, NJ.
 - 12/30/2019 Purchased lifetime fishing license for State of California.
