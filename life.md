@@ -66,7 +66,7 @@
 - 01/31/2020 K-Town fun in LA
 - 03/02/2020 Julian & Aidee's wedding in Cancun
 - 03/10/2020 COVID WFH begins. Not allowed back in office.
-- 05/13/2020-17/05/2020 Staycation in Montara.
+- 05/13/2020-05/17/2020 Staycation in Montara.
 - 07/01/2020 Trip to Mammoth Lakes / Sierra National Forest for fly fishing.
 - 07/31/2020 Camping trip in El Dorado Natl Forest, fly fishing.
 - 09/04/2020-09/20/2020 Road trip from MTV to NJ
