@@ -16,20 +16,9 @@
 - 11/2016-~ Moved to Mountain View
 - 08/05/2017-~ Married [Shanubydoo](https://www.instagram.com/shanubydoo)
 - 01/03/2018 Adopted [Lil Lucy Liu](https://www.instagram.com/lillucyliu)
+- 06/11/2019 Got an appendectomy.
 - 02/28/2021 Placeholder / discovered something amazing?!
 - 11/2021 Exciting thing?!
-
-# Linux & Open Source (started 1998)
-
-- 1998 Built first website!
-- 2002 Red Hat
-- 2003 Mandrake
-- 2003 First contribution to open source!
-- 2003-2005 Fedora Core 2+
-- 2006-2008 Ubuntu 6.06 Dapper Drake
-- 2008-2009 OpenSUSE
-- 2009-2017 OS X
-- 2017-~ "Year of the Linux Desktop" for me
 
 # Work & Education (started 2005)
 
@@ -45,6 +34,18 @@
 - 06/20/2013-01/01/2014 Joined [Impermium](http://www.impermium.com)
 - 01/2014-06/19/2017 Joined [Google](http://www.google.com)
 - 06/19/2017-~ Joined [Waymo](https://www.waymo.com)
+
+# Linux & Open Source (started 1998)
+
+- 1998 Built first website!
+- 2002 Red Hat
+- 2003 Mandrake
+- 2003 First contribution to open source!
+- 2003-2005 Fedora Core 2+
+- 2006-2008 Ubuntu 6.06 Dapper Drake
+- 2008-2009 OpenSUSE
+- 2009-2017 OS X
+- 2017-~ "Year of the Linux Desktop" for me
 
 # Hackathons (started 2010)
 
@@ -68,7 +69,6 @@
 - 08/13/2017-08/18/2017 Honeymoon in Todos Santos, Mexico.
 - 11/22/2018-11/25/2018 Vacation in San Diego
 - 05/06/2019-05/09/2019 ICLR 2019 @ New Orleans
-- 06/11/2019 Got an appendectomy.
 - 08/29/2019-09/02/2019 Random trip to Oregon
 - 09/19/2019 Esther & Alby wedding ceremony!
 - 11/22/2019-11/28/2019 Vacation in Kauai, Hawaii.
