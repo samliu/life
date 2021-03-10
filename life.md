@@ -62,7 +62,7 @@
 - 06/11/2019 Got an appendectomy.
 - 08/29/2019-09/02/2019 Random trip to Oregon
 - 09/19/2019 Esther & Alby wedding ceremony!
-- 11/22/2019-28/11/2019 Vacation in Kauai, Hawaii.
+- 11/22/2019-11/28/2019 Vacation in Kauai, Hawaii.
 - 01/31/2020 K-Town fun in LA
 - 03/02/2020 Julian & Aidee's wedding in Cancun
 - 03/10/2020 COVID WFH begins. Not allowed back in office.
