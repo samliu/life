@@ -1,11 +1,14 @@
 @samliu's life
 ===============
 
+# Personal Life Events (started 1990)
+
 - 10/08/1990 Born in Lebanon, PA
 - 1996 Moved to Navesink, NJ
 - 1997 Moved to Holmdel, NJ
 - 03/2000 Moved in Holmdel, NJ
 - 06/2013 Moved to Mountain View, CA
+- 06/2013-06/2014 Lived with my best friends @ HOUSE!
 - 02/05/2014 Met [Shanubydoo](https://www.instagram.com/shanubydoo)
 - 04/2014 Moved to San Jose, CA
 - 05/2014-~ <3 [Shanubydoo](https://www.instagram.com/shanubydoo)
@@ -16,7 +19,7 @@
 - 02/28/2021 Placeholder / discovered something amazing?!
 - 11/2021 Exciting thing?!
 
-- 06/2013-06/2014 Lived with my best friends @ HOUSE!
+# Linux & Open Source (started 1998)
 
 - 1998 Built first website!
 - 2002 Red Hat
@@ -27,6 +30,8 @@
 - 2008-2009 OpenSUSE
 - 2009-2017 OS X
 - 2017-~ "Year of the Linux Desktop" for me
+
+# Work & Education (started 2005)
 
 - 09/2005-06/2009 Attended Holmdel High School
 - 06/2008-09/2008 Interned at eMagid.
@@ -41,6 +46,8 @@
 - 01/2014-06/19/2017 Joined [Google](http://www.google.com)
 - 06/19/2017-~ Joined [Waymo](https://www.waymo.com)
 
+# Hackathons (started 2010)
+
 - 10/2010 Hackathon - Grand Prize @ HackU Illinois
 - 07/2011 Hackathon - Finalist @ Linkedin Intern Hack Day
 - 10/2011 Hackathon - 1st Place @ HackU Illinois
@@ -48,6 +55,8 @@
 - 07/2012 Hackathon - Finalist @ Linkedin Intern Hack Day
 - 10/2012 Hackathon - Grand Prize @ Facebook Midwest Regional
 - 11/2012 Hackathon - 2nd Place @ Facebook Hackathon Finals
+
+# Travel (started 2010)
 
 - 05/16/2010-05/26/2010 Traveled to Istanbul, Turkey.
 - 05/28/2014-05/30/2014 Work retreat to Cabo, Mexico.
@@ -74,6 +83,8 @@
 - 11/21/2020-12/05/2020 Road trip from NJ to MTV
 - 02/13/2021 Camping trip at Lake Chabot.
 - 02/19/2021 Weekend trip in Bodega Bay, first time crabbing.
+
+# Fishing (started 2016)
 
 - 05/01/2016 Caught 8lbs Halibut on a SF Bay charter. Fell in love with fishing.
 - 06/18/2016 Caught 40+ mackerel on Pacifica Pier.
