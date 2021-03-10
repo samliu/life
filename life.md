@@ -49,18 +49,18 @@
 - 10/2012 Hackathon - Grand Prize @ Facebook Midwest Regional
 - 11/2012 Hackathon - 2nd Place @ Facebook Hackathon Finals
 
-- 05/16/2010-26/05/2010 Traveled to Istanbul, Turkey.
-- 05/28/2014-30/05/2014 Work retreat to Cabo, Mexico.
-- 07/16/2015-30/07/2015 Business trip to Belo Horizonte, Brazil.
-- 09/05/2015-08/09/2015 Friend trip to Portland, Oregon.
-- 10/20/2016-24/10/2016 Friend trip to Kauai, Hawaii.
-- 12/02/2016-05/12/2016 Friend trip to Salt Lake City, Utah.
-- 12/21/2016-02/01/2017 Family vacation to Taipei, Taiwan.
-- 08/13/2017-18/08/2017 Honeymoon in Todos Santos, Mexico.
-- 11/22/2018-25/11/2018 Vacation in San Diego
-- 05/06/2019-09/05-2019 ICLR 2019 @ New Orleans
+- 05/16/2010-05/26/2010 Traveled to Istanbul, Turkey.
+- 05/28/2014-05/30/2014 Work retreat to Cabo, Mexico.
+- 07/16/2015-07/30/2015 Business trip to Belo Horizonte, Brazil.
+- 09/05/2015-09/08/2015 Friend trip to Portland, Oregon.
+- 10/20/2016-10/24/2016 Friend trip to Kauai, Hawaii.
+- 12/02/2016-12/05/2016 Friend trip to Salt Lake City, Utah.
+- 12/21/2016-01/02/2017 Family vacation to Taipei, Taiwan.
+- 08/13/2017-08/18/2017 Honeymoon in Todos Santos, Mexico.
+- 11/22/2018-11/25/2018 Vacation in San Diego
+- 05/06/2019-05/09/2019 ICLR 2019 @ New Orleans
 - 06/11/2019 Got an appendectomy.
-- 08/29/2019-02/09/2019 Random trip to Oregon
+- 08/29/2019-09/02/2019 Random trip to Oregon
 - 09/19/2019 Esther & Alby wedding ceremony!
 - 11/22/2019-28/11/2019 Vacation in Kauai, Hawaii.
 - 01/31/2020 K-Town fun in LA
@@ -69,9 +69,9 @@
 - 05/13/2020-17/05/2020 Staycation in Montara.
 - 07/01/2020 Trip to Mammoth Lakes / Sierra National Forest for fly fishing.
 - 07/31/2020 Camping trip in El Dorado Natl Forest, fly fishing.
-- 09/04/2020-20/09/2020 Road trip from MTV to NJ
-- 10/09/2020-12/10/2020 Birthday weekend in Watch Hill, RI.
-- 11/21/2020-05/12/2020 Road trip from NJ to MTV
+- 09/04/2020-09/20/2020 Road trip from MTV to NJ
+- 10/09/2020-10/12/2020 Birthday weekend in Watch Hill, RI.
+- 11/21/2020-12/05/2020 Road trip from NJ to MTV
 - 02/13/2021 Camping trip at Lake Chabot.
 - 02/19/2021 Weekend trip in Bodega Bay, first time crabbing.
 
@@ -79,14 +79,14 @@
 - 06/18/2016 Caught 40+ mackerel on Pacifica Pier.
 - 04/02/2017 Went sailing on the bay with Sanket, first time trolling. Skunked.
 - 05/13/2017 Caught 8 shiner perch on Santa Cruz pier (Nathan's Bachelor Party).
-- 05/26/2017-28/05/2017 Fished the Charles River in Cambridge, MA. First largemouth bass, yellow perch.
-- 07/05/2017-08/07/2017 Fished the Channel Islands. First bat eagle ray.
-- 08/14/2017-16/08/2017 Fished in Todos Santos, Mexico. First tuna & dorado.
+- 05/26/2017-05/28/2017 Fished the Charles River in Cambridge, MA. First largemouth bass, yellow perch.
+- 07/05/2017-078/08/2017 Fished the Channel Islands. First bat eagle ray.
+- 08/14/2017-08/16/2017 Fished in Todos Santos, Mexico. First tuna & dorado.
 - 09/24/2017 Fished the Guadalupe River, San Jose. First green sunfish.
 - 06/12/2018 Fished Bay Lake, Minnesota. First Northern Pike.
 - 08/25/2018 Largemouth personal best (5lbs 15oz) @ Stevens Creek Reservoir, Cupertino.
 - 11/12/2018 First fish @ Lake Temescal, Oakland (2lbs LMB).
-- 11/22/2018-24/11/2018 Fished San Diego, CA. First calico bass, first halibut from shore.
+- 11/22/2018-11/24/2018 Fished San Diego, CA. First calico bass, first halibut from shore.
 - 12/24/2018 Fished Grants Pass, Oregon. First wild rainbow trout.
 - 04/13/2019 First Mt. Lassen stocked rainbow trout @ Lake Temescal, Oakland.
 - 07/05/2019 Fished Gompers Lagoon, Chicago. Caught tiny channel cats.
@@ -98,5 +98,5 @@
 - 12/08/2019 Caught and released very rare native steelhead trout @ Stevens Creek Reservoir.
 - 12/29/2019 Caught ~2lbs LMB at Holmdel Park Pond, NJ.
 - 12/30/2019 Purchased lifetime fishing license for State of California.
-- 07/31/2020-02/08/2020 Caught 40+ rainbow trout in El Dorado national forest, mostly on the fly.
-- 10/09/2020-12/10/2020 Caught a bunch of east coast striper schoolies at Quonochontaug, RI.
+- 07/31/2020-08/02/2020 Caught 40+ rainbow trout in El Dorado national forest, mostly on the fly.
+- 10/09/2020-10/12/2020 Caught a bunch of east coast striper schoolies at Quonochontaug, RI.
