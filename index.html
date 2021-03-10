@@ -164,16 +164,26 @@ h1{
             xhr.send();
         },
         parse: function(response){
-            var list = response.match(/\-\s+[^\n\r]+/ig);
+        	// Match either "- {stuff}" OR "# {stuff}" 
+            var list = response.match(/\-\s+[^\n\r]+|\#\s+[^\n\r]+/ig);
             var data = [];
             list.forEach(function(l){
                 var matches = l.match(/\-\s+([\d\/\-\~]+)\s(.*)/i);
-                var time = matches[1];
-                var text = matches[2];
-                data.push({
-                    time: life.parseTime(time),
-                    text: text
-                });
+                if (matches != null) {
+	                var time = matches[1];
+	                var text = matches[2];
+	                data.push({
+	                    time: life.parseTime(time),
+	                    text: text
+	                });
+                } else {
+                	console.log("got here!");
+                	var matches = l.match(/\#\s(.*)/i);
+                	data.push({
+	                    time: 0,
+	                    text: matches[1]
+	                });
+                }
             });
             return data;
         },
@@ -294,6 +304,9 @@ h1{
             var lastYear = firstYear;
             data.forEach(function(d){
                 var time = d.time;
+                if (time === 0) {
+                	return;
+                }
                 var startYear = time.startYear;
                 var endYear = time.endYear;
                 if (startYear && startYear < firstYear) firstYear = startYear;
@@ -303,6 +316,33 @@ h1{
 
             var html = life.renderYears(firstYear, lastYear);
             data.forEach(function(d){
+            	if (d.time == 0) {
+            		var matches = d.text.match(/([\w|\s|&]+)( \(started )(\d\d\d\d)/i)
+            		var text = matches[1];
+            		var year = matches[3];
+
+            		var firstYear = life.firstYear;
+		            var dayLength = life.config.yearLength/12/30;
+
+		            var width = 0;
+
+		            // Calculate offset
+		            var startTime = new Date(firstYear, 0, 1);
+		            var endTime = new Date(year, 0, 1);
+		            var daysDiff = (endTime - startTime)/(24*60*60*1000);
+		            offset = daysDiff*dayLength;
+
+		            if (offset == 0) {
+		            	offset = 50;
+		            }
+
+
+            		html += '<br/><br/><div class="event" style="margin-left: ' +
+            		        offset.toFixed(2) +
+            		        'px"><b style="color:#f8f8f8;font-size:large">' + text + '</b></div><br/><br/>';
+
+            	    return;
+                }
                 html += life.renderEvent(d);
             });
             life.$el.innerHTML = html;
