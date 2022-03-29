@@ -18,7 +18,7 @@
 - 01/03/2018 Adopted [Lil Lucy Liu](https://www.instagram.com/lillucyliu)
 - 06/11/2019 Got an appendectomy.
 - 02/28/2021 Placeholder / discovered something amazing?!
-- 11/2021 Exciting thing?!
+- 11/13/2021 Winona H. Liu was born, a.k.a "Winnie the Liu"
 
 # Work & Education (started 2005)
 
