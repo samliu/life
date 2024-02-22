@@ -45,7 +45,7 @@
 - 2006-2008 Ubuntu 6.06 Dapper Drake
 - 2008-2009 OpenSUSE
 - 2009-2017 OS X
-- 2017-~ "Year of the Linux Desktop"
+- 2017-~ My "Year of the Linux Desktop"
 
 # Hackathons (started 2010)
 
