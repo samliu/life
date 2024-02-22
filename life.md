@@ -32,7 +32,7 @@
 - 05/2013 Graduated from UIUC!
 - 06/2013 Flew in microgravity
 - 06/20/2013-01/01/2014 Joined [Impermium](http://www.impermium.com)
-- 01/2014-06/19/2017 Fought Spam and Abuse at [Google](http://www.google.com)
+- 01/16/2014-06/19/2017 Fought Spam and Abuse at [Google](http://www.google.com)
 - 06/19/2017-02/09/2024 Built self driving cars at [Waymo](https://www.waymo.com)
 
 # Linux & Open Source (started 1998)
