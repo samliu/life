@@ -32,8 +32,8 @@
 - 05/2013 Graduated from UIUC!
 - 06/2013 Flew in microgravity
 - 06/20/2013-01/01/2014 Joined [Impermium](http://www.impermium.com)
-- 01/2014-06/19/2017 Joined [Google](http://www.google.com)
-- 06/19/2017-~ Joined [Waymo](https://www.waymo.com)
+- 01/2014-06/19/2017 Fought Spam and Abuse at [Google](http://www.google.com)
+- 06/19/2017-02/09/2024 Built self driving cars at [Waymo](https://www.waymo.com)
 
 # Linux & Open Source (started 1998)
 
@@ -57,9 +57,9 @@
 - 10/2012 Hackathon - Grand Prize @ Facebook Midwest Regional
 - 11/2012 Hackathon - 2nd Place @ Facebook Hackathon Finals
 
-# Travel (started 2010)
+# Travel (since 2010)
 
-- 05/16/2010-05/26/2010 Traveled to Istanbul, Turkey.
+- 05/16/2010-05/26/2010 Istanbul, Turkey with a college group.
 - 05/28/2014-05/30/2014 Work retreat to Cabo, Mexico.
 - 07/16/2015-07/30/2015 Business trip to Belo Horizonte, Brazil.
 - 09/05/2015-09/08/2015 Friend trip to Portland, Oregon.
@@ -83,6 +83,9 @@
 - 11/21/2020-12/05/2020 Road trip from NJ to MTV
 - 02/13/2021 Camping trip at Lake Chabot.
 - 02/19/2021 Weekend trip in Bodega Bay, first time crabbing.
+- 06/18/2022-06/24/2022 CVPR 2022, also a COVID superspreader event.
+- 09/07/2023-09/13/2023 Family event in Pensacola, FL.
+- 12/15/2023-12/21/2023 Groomsman at friend's wedding in Goa, India.
 
 # Fishing (started 2016)
 
