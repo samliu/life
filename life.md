@@ -61,16 +61,21 @@
 
 - 05/16/2010-05/26/2010 Istanbul, Turkey with a college group.
 - 05/28/2014-05/30/2014 Work retreat to Cabo, Mexico.
+- 02/28/2015-03/01/2015 Visited UIUC to support a Google recruiting event.
 - 07/16/2015-07/30/2015 Business trip to Belo Horizonte, Brazil.
 - 09/05/2015-09/08/2015 Friend trip to Portland, Oregon.
+- 01/09/2016-01/16/2016 Business trip to Belo Horizonte, Brazil.
 - 10/20/2016-10/24/2016 Friend trip to Kauai, Hawaii.
 - 12/02/2016-12/05/2016 Friend trip to Salt Lake City, Utah.
 - 12/21/2016-01/02/2017 Family vacation to Taipei, Taiwan.
 - 08/13/2017-08/18/2017 Honeymoon in Todos Santos, Mexico.
+- 06/08/2017-06/11/2017 Friend trip to Bay Lake, Minnesota.
+- 09/28/2018-09/30/2018 Wilson's Wedding in Chestnut Hill, PA.
 - 11/22/2018-11/25/2018 Vacation in San Diego
 - 05/06/2019-05/09/2019 ICLR 2019 @ New Orleans
-- 08/29/2019-09/02/2019 Random trip to Oregon
-- 09/19/2019 Esther & Alby wedding ceremony!
+- 07/05/2019-07/07/2019 Friend trip to Chicago, IL.
+- 08/29/2019-09/02/2019 Random trip to Grants Pass, OR.
+- 09/19/2019 Esther & Alby legal wedding in NYC.
 - 11/22/2019-11/28/2019 Vacation in Kauai, Hawaii.
 - 01/31/2020 K-Town fun in LA
 - 03/02/2020 Julian & Aidee's wedding in Cancun
@@ -78,12 +83,14 @@
 - 05/13/2020-05/17/2020 Staycation in Montara.
 - 07/01/2020 Trip to Mammoth Lakes / Sierra National Forest for fly fishing.
 - 07/31/2020 Camping trip in El Dorado Natl Forest, fly fishing.
-- 09/04/2020-09/20/2020 Road trip from MTV to NJ
+- 09/04/2020-09/20/2020 Road trip from MTV to NJ.
 - 10/09/2020-10/12/2020 Birthday weekend in Watch Hill, RI.
-- 11/21/2020-12/05/2020 Road trip from NJ to MTV
+- 11/21/2020-12/05/2020 Road trip from NJ to MTV.
 - 02/13/2021 Camping trip at Lake Chabot.
 - 02/19/2021 Weekend trip in Bodega Bay, first time crabbing.
-- 06/18/2022-06/24/2022 CVPR 2022, also a COVID superspreader event.
+- 08/07/2021-08/13/2021 Babymoon to Princeville, HI (Kauai).
+- 08/15/2021-08/16/2021 Dylan's Wedding in Sonoma county.
+- 06/18/2022-06/24/2022 CVPR 2022 (also a COVID superspreader event).
 - 09/07/2023-09/13/2023 Family event in Pensacola, FL.
 - 12/15/2023-12/21/2023 Groomsman at friend's wedding in Goa, India.
 
