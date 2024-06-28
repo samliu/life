@@ -34,6 +34,7 @@
 - 06/20/2013-01/01/2014 Joined [Impermium](http://www.impermium.com)
 - 01/16/2014-06/19/2017 Fought Spam and Abuse at [Google](http://www.google.com)
 - 06/19/2017-02/09/2024 Built self driving cars at [Waymo](https://www.waymo.com)
+- 05/01/2024-~ Building smarter cities at [Post Perception](https://www.postperception.com)
 
 # Linux & Open Source (started 1998)
 
@@ -57,7 +58,7 @@
 - 10/2012 Hackathon - Grand Prize @ Facebook Midwest Regional
 - 11/2012 Hackathon - 2nd Place @ Facebook Hackathon Finals
 
-# Travel (since 2010)
+# Travel (started 2010)
 
 - 05/16/2010-05/26/2010 Istanbul, Turkey with a college group.
 - 05/28/2014-05/30/2014 Work retreat to Cabo, Mexico.
@@ -92,7 +93,8 @@
 - 08/15/2021-08/16/2021 Dylan's Wedding in Sonoma county.
 - 06/18/2022-06/24/2022 CVPR 2022 (also a COVID superspreader event).
 - 09/07/2023-09/13/2023 Family event in Pensacola, FL.
-- 12/15/2023-12/21/2023 Groomsman at friend's wedding in Goa, India.
+- 12/15/2023-12/21/2023 Groomsman at Chaitan's wedding in Goa, India.
+- 7/1/2024-7/6/2024 Liu Family Reunion in San Diego
 
 # Fishing (started 2016)
 
