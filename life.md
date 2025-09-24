@@ -34,7 +34,7 @@
 - 06/20/2013-01/01/2014 Joined [Impermium](http://www.impermium.com)
 - 01/16/2014-06/19/2017 Fought Spam and Abuse at [Google](http://www.google.com)
 - 06/19/2017-02/09/2024 Built self driving cars at [Waymo](https://www.waymo.com)
-- 05/01/2024-~ Building smarter cities at [Post Perception](https://www.postperception.com)
+- 05/01/2024-10/31/2025 Interrogating the limitations of large models at [Post Perception](https://www.postperception.com)
 
 # Linux & Open Source (started 1998)
 
